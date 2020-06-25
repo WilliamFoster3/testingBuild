@@ -1,0 +1,21 @@
+.regionText {
+    font-size: 17px;
+    position: absolute;
+    margin-top: -15%;
+    margin-left: 2.5%;
+}
+
+.regionSelect {
+    right: 20%;
+    position: absolute;
+    margin-top: -22%;
+}
+
+#regionOptions {
+    border-radius: 15%;
+    margin-left: 30%;
+    margin-top: 15%;
+    height: 51px;
+    width: 108px;
+    border-color: black;
+}
